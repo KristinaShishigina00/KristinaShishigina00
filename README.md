@@ -4,7 +4,7 @@
 
 Перевожу задачи предметной области в требования, пользовательские сценарии и модели данных. Соединяю анализ процессов с техническим пониманием системы и работой с продуктовыми метриками.
 
-[Telegram][telegram] · [Email][email] · [Интерактивный дашборд][dashboard] · [Презентация «Ауры»][aura-slides]
+[Telegram][telegram] · [Email][email] · [Интерактивный дашборд][dashboard] · [Презентация-портфолио][portfolio]
 
 ## Обо мне
 
@@ -109,6 +109,7 @@
 [Написать в Telegram][telegram] · [krishigina@yandex.ru][email]
 
 [telegram]: https://t.me/krishigina
+[portfolio]: https://disk.yandex.ru/i/4tk_phBfyIXgOQ
 [email]: mailto:krishigina@yandex.ru
 [dashboard]: https://kristinashishigina00.github.io/aura-powerbi/
 [powerbi-repo]: https://github.com/KristinaShishigina00/aura-powerbi

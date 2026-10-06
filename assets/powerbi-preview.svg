@@ -1,1 +1,12 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="title description">
+  <title id="title">Место для скриншота отчёта Power BI</title>
+  <desc id="description">Замените это изображение на скриншот вашего реального отчёта. Это заглушка, а не дашборд.</desc>
+  <rect width="1200" height="480" rx="20" fill="#f6f8fa"/>
+  <rect x="36" y="36" width="1128" height="408" rx="16" fill="#ffffff" stroke="#d0d7de"/>
+  <rect x="80" y="90" width="6" height="292" rx="3" fill="#f2c811"/>
+  <text x="118" y="152" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#57606a">BUSINESS ANALYTICS / PORTFOLIO</text>
+  <text x="118" y="223" font-family="Segoe UI,Arial,sans-serif" font-size="48" font-weight="700" fill="#1f2328">Power BI</text>
+  <text x="118" y="277" font-family="Segoe UI,Arial,sans-serif" font-size="30" fill="#1f2328">Интерактивный аналитический отчёт</text>
+  <text x="118" y="342" font-family="Segoe UI,Arial,sans-serif" font-size="23" fill="#57606a">Добавьте сюда скриншот своего отчёта</text>
+  <text x="118" y="380" font-family="Segoe UI,Arial,sans-serif" font-size="19" fill="#57606a">Превью → ссылка на интерактивную версию</text>
+</svg>
